@@ -1,4 +1,4 @@
 # Its demo time brother
-Author- siddharth shrivastava
+Author- siddharth kumar shrivastava
 <br>
 writter- Alex shrivastava
